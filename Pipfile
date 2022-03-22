@@ -9,6 +9,7 @@ numpy = "*"
 jupyterlab = "*"
 pycaret = {extras = ["full"], version = "*"}
 surprise = "*"
+pyspark = "*"
 
 [dev-packages]
 ipykernel = "*"
